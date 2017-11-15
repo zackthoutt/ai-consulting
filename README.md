@@ -7,3 +7,19 @@ The contract I've uploaded to this repository is what I've managed to come up wi
 I would love for this repository to become an open source project and encourage everyone to contribute. I envision there eventually being multiple templates for contracts, as well as some other resources that are useful when you're working as an independent consultant. 
 
 If you have ideas or feedback, feel free to open up issues, put up pull reqeusts, and [contact me directly](mailto:me@zackthoutt.com).
+
+## Connect with me
+
+If you'd like to collaborate on a project, learn more about me, or just say hi, feel free to contact me using any of the social channels listed below.
+
+- [Personal Website](https://zackthoutt.com)
+- [Email](mailto:zackarey.thoutt@colorado.edu)
+- [LinkedIn](https://www.linkedin.com/in/zack-thoutt-57275655/)
+- [Twitter](https://twitter.com/zthoutt)
+- [Medium](https://medium.com/@zthoutt)
+- [Quora](https://www.quora.com/profile/Zack-Thoutt)
+- [HackerNews](https://news.ycombinator.com/submitted?id=zthoutt)
+- [Reddit](https://www.reddit.com/user/zthoutt/)
+- [Kaggle](https://www.kaggle.com/zynicide)
+- [Instagram](https://www.instagram.com/zthoutt/)
+- [500px](https://500px.com/zthoutt)
