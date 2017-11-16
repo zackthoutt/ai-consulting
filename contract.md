@@ -65,7 +65,7 @@ During this term billable hours shall be at least **[minimum billable hours]** a
 You agree to pay 100% of all expenses incurred as a result of my work for you. This includes, but is not limited to, software, computing, and travel.
 
 ### Termination
-Either party may terminal this contract at any time with written notice. Once written notice is received, the contract is terminated immediately.
+Either party may terminate this contract at any time with written notice. Once written notice is received, the contract is terminated immediately.
 
 You agree to pay all billable hours and expenses in full up until contract termination. Your final payment to me is due 10 days after receiving the invoice and is subject to all the other terms outlined in this contract.
 
